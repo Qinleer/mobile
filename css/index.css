@@ -1,0 +1,11 @@
+.circle{
+ 	display: inline-block;
+	background: url(../img/bg.png) 0 center  no-repeat;
+	padding-left: 26px;
+}
+.chain-main{
+	width: 100%;
+	height: 300px;
+	background-color: transparent;
+	margin-bottom: 20px;
+}

@@ -1,0 +1,388 @@
+{
+    "data": [
+        {
+            "total": 1,
+            "cols": [
+                {
+                    "field": "NOW_SURGERY",
+                    "title": "NOW_SURGERY"
+                },
+                {
+                    "field": "LASTYEAR_SURGERY",
+                    "title": "LASTYEAR_SURGERY"
+                },
+                {
+                    "field": "PERCENTAGE",
+                    "title": "PERCENTAGE"
+                }
+            ],
+            "total_single": 1,
+            "rows_single": [
+                {
+                    "ID": "35e88fce-e03d-4393-bc21-f9b9b3bc8fe5",
+                    "TABCN": "手术人次总量",
+                    "TABEN": "SSRCZL",
+                    "PTABID": "0",
+                    "PTABCN": "0",
+                    "PTABEN": "0",
+                    "ICONSTYLE": "=",
+                    "STARTTASKTIME": "2017-03-22",
+                    "ISCACHE": "0=否",
+                    "SINGLECODE": "SSRCZL",
+                    "SINGLENAME": "手术人次总量",
+                    "SINGLECHARTTYPE": "plane=平面图",
+                    "SINGLEDIMPAR": "",
+                    "SINGLETYPE": "",
+                    "SINGLEDATA": "NOW_SURGERY|PERCENTAGE",
+                    "SINGLELISTORDER": 201716,
+                    "SINGLECHARTCSS": "",
+                    "INSTIME": "2017-03-22",
+                    "AUTOID": 1218,
+                    "MSG": "",
+                    "SINGLECHARTTYPEAPP": "="
+                }
+            ],
+            "rows": [
+                {
+                    "NOW_SURGERY": "",
+                    "LASTYEAR_SURGERY": "",
+                    "PERCENTAGE": "%"
+                }
+            ]
+        },
+        {
+            "total": 0,
+            "cols": [],
+            "total_single": 1,
+            "rows_single": [
+                {
+                    "ID": "49617d90-2e59-4863-941a-ab843df12795",
+                    "TABCN": "民营公立医院手术人次",
+                    "TABEN": "YYGLYYSSRC",
+                    "PTABID": "0",
+                    "PTABCN": "0",
+                    "PTABEN": "0",
+                    "ICONSTYLE": "=",
+                    "STARTTASKTIME": "2017-03-22",
+                    "ISCACHE": "0=否",
+                    "SINGLECODE": "YYGLYYSSRC",
+                    "SINGLENAME": "民营公立医院手术人次",
+                    "SINGLECHARTTYPE": "pie=饼图",
+                    "SINGLEDIMPAR": "",
+                    "SINGLETYPE": "OFFICE_ATTR",
+                    "SINGLEDATA": "手术人次",
+                    "SINGLELISTORDER": 201717,
+                    "SINGLECHARTCSS": "",
+                    "INSTIME": "2017-03-22",
+                    "AUTOID": 1219,
+                    "MSG": "",
+                    "SINGLECHARTTYPEAPP": "="
+                }
+            ],
+            "rows": []
+        },
+        {
+            "total": 0,
+            "cols": [],
+            "total_single": 1,
+            "rows_single": [
+                {
+                    "ID": "a21d417f-ebfe-4d0c-863a-c86afa754bb4",
+                    "TABCN": "按医院等级手术人次",
+                    "TABEN": "AYYDJSSRC",
+                    "PTABID": "0",
+                    "PTABCN": "0",
+                    "PTABEN": "0",
+                    "ICONSTYLE": "=",
+                    "STARTTASKTIME": "2017-03-22",
+                    "ISCACHE": "0=否",
+                    "SINGLECODE": "AYYDJSSRC",
+                    "SINGLENAME": "按医院等级手术人次",
+                    "SINGLECHARTTYPE": "pie=饼图",
+                    "SINGLEDIMPAR": "",
+                    "SINGLETYPE": "OFFICE_LEVEL",
+                    "SINGLEDATA": "手术人次",
+                    "SINGLELISTORDER": "",
+                    "SINGLECHARTCSS": "",
+                    "INSTIME": "2017-03-22",
+                    "AUTOID": 1220,
+                    "MSG": "",
+                    "SINGLECHARTTYPEAPP": "="
+                }
+            ],
+            "rows": []
+        },
+        {
+            "total": 0,
+            "cols": [],
+            "total_single": 1,
+            "rows_single": [
+                {
+                    "ID": "4f62762b-ae03-49fb-8a62-b31287a951c4",
+                    "TABCN": "直管机构手术人次分析",
+                    "TABEN": "ZGJGSSRCFX",
+                    "PTABID": "0",
+                    "PTABCN": "0",
+                    "PTABEN": "0",
+                    "ICONSTYLE": "'X轴倾斜角度':-20='X轴倾斜角度':-20\"",
+                    "STARTTASKTIME": "2017-03-22",
+                    "ISCACHE": "0=否",
+                    "SINGLECODE": "ZGJGSSRCFX",
+                    "SINGLENAME": "直管机构手术人次分析",
+                    "SINGLECHARTTYPE": "column=柱状图",
+                    "SINGLEDIMPAR": "",
+                    "SINGLETYPE": "OFFICE",
+                    "SINGLEDATA": "手术人次",
+                    "SINGLELISTORDER": 201718,
+                    "SINGLECHARTCSS": "'X轴倾斜角度':-20",
+                    "INSTIME": "2017-03-22",
+                    "AUTOID": 1221,
+                    "MSG": "",
+                    "SINGLECHARTTYPEAPP": "="
+                }
+            ],
+            "rows": []
+        },
+        {
+            "total": 5,
+            "cols": [
+                {
+                    "field": "手术人次",
+                    "title": "手术人次"
+                },
+                {
+                    "field": "YEAR",
+                    "title": "YEAR"
+                },
+                {
+                    "field": "数据类型",
+                    "title": "数据类型"
+                }
+            ],
+            "total_single": 1,
+            "rows_single": [
+                {
+                    "ID": "ce41c4c7-fbd9-4b32-a80c-2126cc9e69c4",
+                    "TABCN": "近5年门诊手术人次趋势",
+                    "TABEN": "J5NMZSSRCQS",
+                    "PTABID": "0",
+                    "PTABCN": "0",
+                    "PTABEN": "0",
+                    "ICONSTYLE": "=",
+                    "STARTTASKTIME": "2017-03-22",
+                    "ISCACHE": "0=否",
+                    "SINGLECODE": "J5NMZSSRCQS",
+                    "SINGLENAME": "近5年门诊手术人次趋势",
+                    "SINGLECHARTTYPE": "line=折线图",
+                    "SINGLEDIMPAR": "",
+                    "SINGLETYPE": "数据类型|YEAR",
+                    "SINGLEDATA": "手术人次",
+                    "SINGLELISTORDER": 201719,
+                    "SINGLECHARTCSS": "",
+                    "INSTIME": "2017-03-22",
+                    "AUTOID": 1222,
+                    "MSG": "SELECT SUM(NVL(SUM_OUTPATIENT_SURGERY, 0)) AS 手术人次, to_char(YEAR,'yyyy') AS YEAR,'手术人次' 数据类型\n  FROM H_OPERATIONRECORD_YEAR\n WHERE YEAR BETWEEN to_date(to_number(to_char(SYSDATE,'yyyy'))-5||'-01-01','yyyy-mm-dd') AND to_date(to_char(sysdate,'yyyy-MM-dd'),'yyyy-MM-dd')\n        \n       \n        \n       \n GROUP BY to_char(YEAR,'yyyy')\n order BY to_char(YEAR,'yyyy')",
+                    "SINGLECHARTTYPEAPP": "="
+                }
+            ],
+            "rows": [
+                {
+                    "手术人次": 1940,
+                    "YEAR": "2013",
+                    "数据类型": "手术人次"
+                },
+                {
+                    "手术人次": 2587,
+                    "YEAR": "2014",
+                    "数据类型": "手术人次"
+                },
+                {
+                    "手术人次": 3571,
+                    "YEAR": "2015",
+                    "数据类型": "手术人次"
+                },
+                {
+                    "手术人次": 2970,
+                    "YEAR": "2016",
+                    "数据类型": "手术人次"
+                },
+                {
+                    "手术人次": 145,
+                    "YEAR": "2017",
+                    "数据类型": "手术人次"
+                }
+            ]
+        },
+        {
+            "total": 5,
+            "cols": [
+                {
+                    "field": "PERCENTAGE",
+                    "title": "PERCENTAGE"
+                },
+                {
+                    "field": "MONTH",
+                    "title": "MONTH"
+                },
+                {
+                    "field": "OFFICETYPE",
+                    "title": "OFFICETYPE"
+                }
+            ],
+            "total_single": 1,
+            "rows_single": [
+                {
+                    "ID": "53b63c47-6e79-4922-8e1c-595ff0f17bf7",
+                    "TABCN": "门诊手术人次同比增长",
+                    "TABEN": "MZSSRCTBZZ",
+                    "PTABID": "0",
+                    "PTABCN": "0",
+                    "PTABEN": "0",
+                    "ICONSTYLE": "=",
+                    "STARTTASKTIME": "2017-03-22",
+                    "ISCACHE": "0=否",
+                    "SINGLECODE": "MZSSRCTBZZ",
+                    "SINGLENAME": "门诊手术人次同比增长",
+                    "SINGLECHARTTYPE": "line=折线图",
+                    "SINGLEDIMPAR": "",
+                    "SINGLETYPE": "OFFICETYPE|MONTH",
+                    "SINGLEDATA": "PERCENTAGE",
+                    "SINGLELISTORDER": 201720,
+                    "SINGLECHARTCSS": "",
+                    "INSTIME": "2017-03-22",
+                    "AUTOID": 1223,
+                    "MSG": "",
+                    "SINGLECHARTTYPEAPP": "="
+                }
+            ],
+            "rows": [
+                {
+                    "PERCENTAGE": 0,
+                    "MONTH": "2016-09",
+                    "OFFICETYPE": "乡镇卫生院"
+                },
+                {
+                    "PERCENTAGE": -100,
+                    "MONTH": "2017-01",
+                    "OFFICETYPE": "乡镇卫生院"
+                },
+                {
+                    "PERCENTAGE": -25.33,
+                    "MONTH": "2017-02",
+                    "OFFICETYPE": "乡镇卫生院"
+                },
+                {
+                    "PERCENTAGE": 41.33,
+                    "MONTH": "2017-02",
+                    "OFFICETYPE": "医院"
+                },
+                {
+                    "PERCENTAGE": 0,
+                    "MONTH": "2017-03",
+                    "OFFICETYPE": "乡镇卫生院"
+                }
+            ]
+        }
+    ],
+    "total_single": 6,
+    "html": " <div class='col-xs-12 col-sm-12 col-md-6 panel-item' style='height:300.0px;'>   \t<div class='panel panel-default' style='height:280.0px;'>  \t\t<div class='panel-body'>  \t\t\t\t<!-- echarts图的容器   -->  \t\t\t\t<div class='chain-main' id='CGPH' style='height:300.0px;'></div>  \t\t\t</div> \t\t</div> \t</div> <div class='col-xs-12 col-sm-12 col-md-6 panel-item' style='height:300.0px;'>   \t<div class='panel panel-default' style='height:280.0px;'>  \t\t<div class='panel-body'>  \t\t\t\t<!-- echarts图的容器   -->  \t\t\t\t<div class='chain-main' id='CGPH' style='height:300.0px;'></div>  \t\t\t</div> \t\t</div> \t</div> <div class='col-xs-12 col-sm-12 col-md-6 panel-item' style='height:300.0px;'>   \t<div class='panel panel-default' style='height:280.0px;'>  \t\t<div class='panel-body'>  \t\t\t\t<!-- echarts图的容器   -->  \t\t\t\t<div class='chain-main' id='CGPH' style='height:300.0px;'></div>  \t\t\t</div> \t\t</div> \t</div> <div class='col-xs-12 col-sm-12 col-md-6 panel-item' style='height:300.0px;'>   \t<div class='panel panel-default' style='height:280.0px;'>  \t\t<div class='panel-body'>  \t\t\t\t<!-- echarts图的容器   -->  \t\t\t\t<div class='chain-main' id='CGPH' style='height:300.0px;'></div>  \t\t\t</div> \t\t</div> \t</div> <div class='col-xs-12 col-sm-12 col-md-6 panel-item' style='height:300.0px;'>   \t<div class='panel panel-default' style='height:280.0px;'>  \t\t<div class='panel-body'>  \t\t\t\t<!-- echarts图的容器   -->  \t\t\t\t<div class='chain-main' id='CGPH' style='height:300.0px;'></div>  \t\t\t</div> \t\t</div> \t</div> <div class='col-xs-12 col-sm-12 col-md-6 panel-item' style='height:300.0px;'>   \t<div class='panel panel-default' style='height:280.0px;'>  \t\t<div class='panel-body'>  \t\t\t\t<!-- echarts图的容器   -->  \t\t\t\t<div class='chain-main' id='CGPH' style='height:300.0px;'></div>  \t\t\t</div> \t\t</div> \t</div> <div class='col-xs-12 col-sm-12 col-md-6 panel-item' style='height:300.0px;'>   \t<div class='panel panel-default' style='height:280.0px;'>  \t\t<div class='panel-body'>  \t\t\t\t<!-- echarts图的容器   -->  \t\t\t\t<div class='chain-main' id='CGPH' style='height:300.0px;'></div>  \t\t\t</div> \t\t</div> \t</div> <div class='col-xs-12 col-sm-12 col-md-6 panel-item' style='height:300.0px;'>   \t<div class='panel panel-default' style='height:280.0px;'>  \t\t<div class='panel-body'>  \t\t\t\t<!-- echarts图的容器   -->  \t\t\t\t<div class='chain-main' id='CGPH' style='height:300.0px;'></div>  \t\t\t</div> \t\t</div> \t</div> <div class='col-xs-12 col-sm-12 col-md-4 panel-item' style='height:300.0px;'>   \t<div class='panel panel-default' style='height:280.0px;'>  \t\t<div class='panel-body'>  \t\t\t\t<!-- echarts图的容器   -->  \t\t\t\t<div class='chain-main' id='SSRCZL' style='height:300.0px;'></div>  \t\t\t</div> \t\t</div> \t</div> <div class='col-xs-12 col-sm-12 col-md-4 panel-item' style='height:300.0px;'>   \t<div class='panel panel-default' style='height:280.0px;'>  \t\t<div class='panel-body'>  \t\t\t\t<!-- echarts图的容器   -->  \t\t\t\t<div class='chain-main' id='YYGLYYSSRC' style='height:300.0px;'></div>  \t\t\t</div> \t\t</div> \t</div> <div class='col-xs-12 col-sm-12 col-md-4 panel-item' style='height:300.0px;'>   \t<div class='panel panel-default' style='height:280.0px;'>  \t\t<div class='panel-body'>  \t\t\t\t<!-- echarts图的容器   -->  \t\t\t\t<div class='chain-main' id='AYYDJSSRC' style='height:300.0px;'></div>  \t\t\t</div> \t\t</div> \t</div> <div class='col-xs-12 col-sm-12 col-md-6 panel-item' style='height:300.0px;'>   \t<div class='panel panel-default' style='height:280.0px;'>  \t\t<div class='panel-body'>  \t\t\t\t<!-- echarts图的容器   -->  \t\t\t\t<div class='chain-main' id='ZGJGSSRCFX' style='height:300.0px;'></div>  \t\t\t</div> \t\t</div> \t</div> <div class='col-xs-12 col-sm-12 col-md-6 panel-item' style='height:300.0px;'>   \t<div class='panel panel-default' style='height:280.0px;'>  \t\t<div class='panel-body'>  \t\t\t\t<!-- echarts图的容器   -->  \t\t\t\t<div class='chain-main' id='J5NMZSSRCQS' style='height:300.0px;'></div>  \t\t\t</div> \t\t</div> \t</div> <div class='col-xs-12 col-sm-12 col-md-6 panel-item' style='height:300.0px;'>   \t<div class='panel panel-default' style='height:280.0px;'>  \t\t<div class='panel-body'>  \t\t\t\t<!-- echarts图的容器   -->  \t\t\t\t<div class='chain-main' id='MZSSRCTBZZ' style='height:300.0px;'></div>  \t\t\t</div> \t\t</div> \t</div>",
+    "rows_single": [
+        {
+            "ID": "675d3dad-2c61-4315-99ca-6a41b5c80512",
+            "MASTERID": "8389b2cc-a617-450f-8294-3e925388e5bc",
+            "CODE": "SSRCZL",
+            "NAME": "手术人次总量",
+            "ROWINDEX": 1,
+            "COLINDEX": 1,
+            "PID": "0",
+            "URL": "",
+            "APPURL": "",
+            "WIDTHCSS": "col-md-4=4/12-----1/3   ",
+            "HEIGHTCSS": "12=12/12---1    ",
+            "AUTOSIZE": "",
+            "INSTIME": "2017-03-23",
+            "AUTOID": 52
+        },
+        {
+            "ID": "dffae7e2-26cf-4885-8d14-c00bbe756056",
+            "MASTERID": "8389b2cc-a617-450f-8294-3e925388e5bc",
+            "CODE": "YYGLYYSSRC",
+            "NAME": "民营公立医院手术人次",
+            "ROWINDEX": 1,
+            "COLINDEX": 2,
+            "PID": "0",
+            "URL": "",
+            "APPURL": "",
+            "WIDTHCSS": "col-md-4=4/12-----1/3   ",
+            "HEIGHTCSS": "12=12/12---1    ",
+            "AUTOSIZE": "",
+            "INSTIME": "2017-03-23",
+            "AUTOID": 53
+        },
+        {
+            "ID": "af15925b-3dfb-493e-82a6-5eeee57735bb",
+            "MASTERID": "8389b2cc-a617-450f-8294-3e925388e5bc",
+            "CODE": "AYYDJSSRC",
+            "NAME": "按医院等级手术人次",
+            "ROWINDEX": 1,
+            "COLINDEX": 3,
+            "PID": "0",
+            "URL": "",
+            "APPURL": "",
+            "WIDTHCSS": "col-md-4=4/12-----1/3   ",
+            "HEIGHTCSS": "12=12/12---1    ",
+            "AUTOSIZE": "",
+            "INSTIME": "2017-03-23",
+            "AUTOID": 54
+        },
+        {
+            "ID": "4701184d-d07a-474d-9851-08cf0b10e571",
+            "MASTERID": "8389b2cc-a617-450f-8294-3e925388e5bc",
+            "CODE": "ZGJGSSRCFX",
+            "NAME": "直管机构手术人次分析",
+            "ROWINDEX": 2,
+            "COLINDEX": 2,
+            "PID": "0",
+            "URL": "",
+            "APPURL": "",
+            "WIDTHCSS": "col-md-6=6/12-----1/2   ",
+            "HEIGHTCSS": "12=12/12---1    ",
+            "AUTOSIZE": "",
+            "INSTIME": "2017-03-23",
+            "AUTOID": 55
+        },
+        {
+            "ID": "224052f7-ea14-4334-a951-3774b362e83c",
+            "MASTERID": "8389b2cc-a617-450f-8294-3e925388e5bc",
+            "CODE": "J5NMZSSRCQS",
+            "NAME": "近5年门诊手术人次趋势",
+            "ROWINDEX": 3,
+            "COLINDEX": 1,
+            "PID": "0",
+            "URL": "",
+            "APPURL": "",
+            "WIDTHCSS": "col-md-6=6/12-----1/2   ",
+            "HEIGHTCSS": "12=12/12---1    ",
+            "AUTOSIZE": "",
+            "INSTIME": "2017-03-23",
+            "AUTOID": 56
+        },
+        {
+            "ID": "c7c792d1-30bf-4c4f-afc0-eef334b9f6d8",
+            "MASTERID": "8389b2cc-a617-450f-8294-3e925388e5bc",
+            "CODE": "MZSSRCTBZZ",
+            "NAME": "门诊手术人次同比增长",
+            "ROWINDEX": 3,
+            "COLINDEX": 2,
+            "PID": "0",
+            "URL": "",
+            "APPURL": "",
+            "WIDTHCSS": "col-md-6=6/12-----1/2   ",
+            "HEIGHTCSS": "12=12/12---1    ",
+            "AUTOSIZE": "",
+            "INSTIME": "2017-03-23",
+            "AUTOID": 57
+        }
+    ],
+    "msg": "html代码组合完成"
+}
